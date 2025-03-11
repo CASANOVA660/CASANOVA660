@@ -9,7 +9,7 @@
 - 💡 Passionate about **AI, DevOps**
 - 🎯 Focused on **Web & Mobile App Development**
 - 💬 Ask me about **Full-Stack Development, AI, and DevOps Tools**
-- 📫 Reach me at **[LinkedIn](www.linkedin.com/in/bouali-med-amin)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/bouali-med-amin/)**
 
 ## 🧑‍💻 Profile Views:
 ![](https://komarev.com/ghpvc/?username=GitHackerz)
