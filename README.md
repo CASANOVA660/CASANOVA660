@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed Amin Bouali 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;Passionate+about+AI+%26+DevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;Passionate+about+AI+%26+DevOps" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
